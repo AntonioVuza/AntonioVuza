@@ -1,16 +1,13 @@
-## Hi there 👋
+## Olá 👋
+**Sou o Antonio tenho 15 anos, gosto de jogar, assistir séries, comer e eu faço um brigadeiro delicioso.**
 
-<!--
-**AntonioVuza/AntonioVuza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Atualmente estou trabalhando com a familia
+- 🌱 Atualmente estou cursando Ensino Médio e Curso técnico de ADS
+- 💬 Pergunte-me sobre tudo e talvez eu consiga responder
+- 📫 Como me contatar: manda um e-mail **antoniomarcosoficial33@gmail.com**
+- 😄 Pronomes: Ele/Dele
+- ⚡ Curiosidade: Amo gatos😼😼
+- minhas gatinhas:
+ <img width="645" height="800" alt="image" src="https://github.com/user-attachments/assets/cd0f7ff0-e9ee-43b9-99ed-8c48410aaeb1" />
+A siamês é a Lua, ela tambem tem o apelido de cotoco porque no rabo dela tem um cotoco.
+A outra gata se chama Gorda, porque ela parece ser gorda mas é só muito peluda.
