@@ -9,5 +9,6 @@
 - ⚡ Curiosidade: Amo gatos😼😼
 - minhas gatinhas:
  <img width="645" height="800" alt="image" src="https://github.com/user-attachments/assets/cd0f7ff0-e9ee-43b9-99ed-8c48410aaeb1" />
+
 A siamês é a Lua, ela tambem tem o apelido de cotoco porque no rabo dela tem um cotoco.
 A outra gata se chama Gorda, porque ela parece ser gorda mas é só muito peluda.
