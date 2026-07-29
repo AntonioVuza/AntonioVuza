@@ -1,7 +1,7 @@
 ## Olá 👋
-**Sou o Antonio tenho 15 anos, gosto de jogar, assistir séries, comer e eu faço um brigadeiro delicioso.**
+**Sou o Antonio tenho 16 anos, gosto de jogar, assistir séries, ter vários hobbies, comer e eu faço um brigadeiro delicioso.**
 
-- 🔭 Atualmente estou trabalhando com a familia
+- 🔭 Atualmente estou trabalhando com a família e na Schunk
 - 🌱 Atualmente estou cursando Ensino Médio e Curso técnico de ADS
 - 💬 Pergunte-me sobre tudo e talvez eu consiga responder
 - 📫 Como me contatar: manda um e-mail **antoniomarcosoficial33@gmail.com**
